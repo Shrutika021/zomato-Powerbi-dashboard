@@ -8,7 +8,7 @@ This project analyzes Zomato restaurant data using Power BI.
 
 ## 📊 Dashboard Features
 - Total Restaurants
-- Average Price
+- Active Cases
 - Average Ratings
 - Working Navigation Button (Page 1 ➜ Page 2)
 
